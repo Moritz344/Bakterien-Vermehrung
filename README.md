@@ -1,2 +1,2 @@
-# Bakterien-Vermehrung
-Exponentieller Wachstum und Exponentielle Abnahme
+# Mathe
+Mathe Themen in der Schule die so Interssant waren das ich sie in eine Github Repo gestellt habe.
